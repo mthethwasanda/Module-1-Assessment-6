@@ -1,0 +1,21 @@
+.gallery img{
+    width:100%;
+}
+
+body{
+    color: black;
+    font-family: cursive;
+    font-size: 20px;
+    background-color:plum;
+}
+
+h2{
+    color: darkblue;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 60px;
+}
+
+about{
+    width: 100%;
+}
